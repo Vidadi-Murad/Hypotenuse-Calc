@@ -18,6 +18,10 @@ public class App {
     
     // Labels for get data from user
     System.out.print("Enter First Side:");
+    firstSide = scanner.nextDouble();
+
+    System.out.print("enter Second Side:");
+    secondSide = scanner.nextDouble();
 
 
 
